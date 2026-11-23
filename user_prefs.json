@@ -1,0 +1,26 @@
+{
+  "3": {
+    "preset": "Custom…",
+    "primary": "#1565C0",
+    "secondary": "#3cd084",
+    "accent": "#42A5F5"
+  },
+  "guest": {
+    "preset": "Teal",
+    "primary": "#00695C",
+    "secondary": "#00897B",
+    "accent": "#26A69A"
+  },
+  "1": {
+    "preset": "Custom…",
+    "primary": "#2f81d3",
+    "secondary": "#3ea28e",
+    "accent": "#658e26"
+  },
+  "4": {
+    "preset": "Teal",
+    "primary": "#00695C",
+    "secondary": "#00897B",
+    "accent": "#26A69A"
+  }
+}

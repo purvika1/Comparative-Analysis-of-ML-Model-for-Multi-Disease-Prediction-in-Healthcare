@@ -15,14 +15,15 @@ keras>=2.13.0
 yellowbrick>=1.5
 shap>=0.42.0
 optuna>=3.2.0
-streamlit
-pandas
-numpy
-joblib
-plotly
 pytesseract
 pdfplumber
 Pillow
 pdf2image
 reportlab
+# Backend API dependencies
+flask>=2.3.0
+flask-cors>=4.0.0
+pyjwt>=2.8.0
+requests>=2.31.0
+python-dotenv>=1.0.0
 
